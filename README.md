@@ -3,6 +3,8 @@
 We use this repository to teach Git and also to collect
 some nice recipes.
 
+One more sentence here, added in Aachen.
+
 This exercise is created from https://github.com/coderefinery/recipe-book-template.
 If you wish to improve the exercise itself, please direct your pull requests
 towards the template repository.
